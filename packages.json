@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "0x10c",
+      "name" : "0x10c",
+      "version" : "2021-01-17-17-35-02",
+      "location" : "0x10c.json",
+      "priority" : 1
+    }
+  ]
+}
